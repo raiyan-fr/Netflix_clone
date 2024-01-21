@@ -25,6 +25,6 @@ Feel free to use, modify, or enhance this landing page for your own projects. Cu
 - Netflix assets and content used for demonstration purposes.
 - Font Awesome for icons.
 
-## Author
+## Authors
 
-@raiyan-fr
+- [@raiyan-fr](https://www.github.com/raiyan-fr)
